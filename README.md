@@ -1,6 +1,6 @@
-### **03 : Karma Coders**
 
-### **Educational Collaboration and Content Sharing Platform**
+
+### ** PATHASHALA : Educational Collaboration and Content Sharing Platform**
  
  # 📚 Course Website Project
 
